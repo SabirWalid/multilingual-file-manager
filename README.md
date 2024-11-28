@@ -6,7 +6,7 @@ This project is a multi-user file manager application using Node.js, Redis, and 
 
 ### Clone the project
 ```bash
-   git clone https://github.com/Moussa-Kalam/multilingual-file-manager.git
+   git clone https://github.com/SabirWalid/multilingual-file-manager.git
 ```
 
 ### Set up the Backend
