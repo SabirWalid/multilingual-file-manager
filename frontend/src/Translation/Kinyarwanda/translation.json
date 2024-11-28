@@ -1,0 +1,42 @@
+{
+  "LoginPage": {
+    "title": "Injira",
+    "password": "Ijambo ry'ibanga",
+    "email": "Imeri",
+    "submit": "Emeza",
+    "goToSignUp": "Jya Kwiyandikisha",
+    "emailError": "Ku kibazo, andika imeri y'ibanga",
+    "passwordError": "Ku kibazo, andika ijambo ry'ibanga ry'ibanga"
+  },
+  "SignUpPage": {
+    "title": "Kwiyandikisha",
+    "password": "Ijambobanga",
+    "confirmPassword": "Emeza Ijambobanga",
+    "email": "Imeri",
+    "submit": "Emeza",
+    "goToLogin": "Jya Kwinjira"
+  },
+  "homePage": {
+    "logoutButtonText": "Sohoka",
+    "files": "Amadosiye",
+    "addFiles": "Ongera Amadosiye",
+    "addedFiles": "Amadosiye ahari",
+    "id": "id",
+    "fileName": "Izina rya dosiye",
+    "size": "Ingano",
+    "actions": "Ibikorwa",
+    "edit": "Hindura",
+    "delete": "Siba",
+    "noFiles": "Nta dosiye yongerwaga muri iyi minsi"
+  },
+  "addFileModal": {
+    "title": "Ongera dosiye",
+    "file": "Dosiye",
+    "submit": "Emeza dosiye"
+  },
+  "editFileModal": {
+    "title": "Hindura dosiye",
+    "file": "Dosiye",
+    "submit": "Emeza izina rya dosiye"
+  }
+}

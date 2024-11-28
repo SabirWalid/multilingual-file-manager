@@ -1,0 +1,42 @@
+{
+  "LoginPage": {
+    "title": "Login",
+    "password": "Password",
+    "email": "Email",
+    "submit": "Submit",
+    "goToSignUp": "Go To Sign Up",
+    "emailError": "Please enter a valid email",
+    "passwordError": "Please enter a valid password"
+  },
+  "SignUpPage": {
+    "title": "Sign Up",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "email": "Email",
+    "submit": "Submit",
+    "goToLogin": "Go To Login"
+  },
+  "homePage": {
+    "logoutButtonText": "Logout",
+    "files": "Files",
+    "addFiles": "Add Files",
+    "addedFiles": "Added Files",
+    "id": "id",
+    "fileName": "File Name",
+    "size": "Size",
+    "actions": "Actions",
+    "edit": "Edit",
+    "delete": "Delete",
+    "noFiles": "No Files added yet"
+  },
+  "addFileModal": {
+    "title": "Add File",
+    "file": "File",
+    "submit": "Submit File"
+  },
+  "editFileModal": {
+    "title": "Edit File",
+    "file": "File",
+    "submit": "Submit File name"
+  }
+}
